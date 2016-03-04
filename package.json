@@ -1,14 +1,14 @@
 {
-  "name": "github-battle",
+  "name": "react-starter-kit",
   "version": "0.0.0",
-  "description": "simple react application for simulating github battle",
+  "description": "Simple react configuration including babel and webpack to get started",
   "main": "index.js",
   "scripts": {
     "production" : "webpack -p",
     "start" : "webpack-dev-server"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
